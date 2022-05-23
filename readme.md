@@ -1,6 +1,6 @@
 ## Hello Guys
 
-# Hoje vou mostrar como consumir uma Api no fron e no backend. para isso utilizaremos a api do proprio html 'fetch' e no back usaremos o 'axios' 
+# Hoje vou mostrar como consumir uma Api no front e no backend. para isso utilizaremos a api do proprio html 'fetch' e no back usaremos o 'axios' 
 
 * primeiro vamos iniciar nosso programa utilizando o comando  - npm init -y . 
 
